@@ -1,0 +1,8 @@
+Important information:
+----------------------
+By activating MS Frontpage Extensions you can no longer access your 
+website with FTP. Please make sure that the MS Frontpage Extensions 
+are disabled. 
+If you still have problems after disabling the MS Frontpage 
+Extensions please contact our support.
+Many thanks!

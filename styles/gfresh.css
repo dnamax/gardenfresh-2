@@ -1,0 +1,217 @@
+body {font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {float:none;margin:0;padding:0;font-size:1em;}
+html{font-size:125%;}
+table {border-collapse:collapse;border-spacing:0;}
+fieldset,img { border:0;}
+address,caption,cite,code,dfn,th,var {font-style:normal;font-weight:normal;}
+ol,ul {list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6 {font-size:100%;font-weight:normal;}
+q:before,q:after {content:'';}
+abbr,acronym {border:0;}
+img {border:0;padding:0;margin:0;}
+body {position:relative;font-size:60%;padding-bottom:20px;}
+.clear10 {height:10px;clear:both;overflow:hidden;}
+.clear50 {height:50px;clear:both;overflow:hidden;}
+.gryTxt {color:#aaa;}
+a:link, a:visited {color:#abda4d;text-decoration:none;outline:none;}
+a:hover {color:#0055ff;}
+
+html {margin:0;padding:0;
+	background: #403327 url(/img/bamboo-texture2.jpg) left top repeat fixed;
+}
+body {color:#212121;}
+
+section, article, header, nav, aside, footer {display:block;}
+
+aside#toTop {position:fixed;bottom:0;right:20px;background-color:red;padding:10px;font-size:1.6em;z-index:200;
+	-webkit-border-radius:3px 3px 0 0;
+	-moz-border-radius:3px 3px 0 0;
+	border-radius:3px 3px 0 0;
+}
+aside#toTop a:link, 
+aside#toTop a:visited {color:#fff;}
+
+header {position:relative;background-color:transparent;width:974px;height:197px;padding:16px 10px 14px 10px;margin:0 auto;border:3px solid #212121;border-top:none;}
+header div.background {position:absolute;top:0;left:0;background-color:#fff;opacity:.1;filter: alpha(opacity = 10);height:227px;width:994px;z-index:99;}
+header div#logo {width:195px;height:195px;float:left;background-color:#473e39;border:3px solid #212121;margin-right:10px;position:relative;z-index:100;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+header h1 {display:none;}
+header nav {width:730px;float:left;height:195px;position:relative;z-index:100;}
+
+
+header nav ul li.social {
+   padding: 2px 0 0 10px;
+   width: 32px;
+   }
+
+
+header nav ul li:nth-child(5) {
+   padding-left: 20px;
+   }
+
+
+header nav #paloAlto, 
+header nav #mtView {float:left;width:229px;height:110px;background-color:#473e39;padding:4px;margin:4px 10px 0 0;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	text-shadow: 2px 2px 3px #212121;
+}
+header nav #orderDel {float:left;width:228px;height:110px;background-color:#473e39;padding:4px;margin:4px 0 0 0;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	text-shadow: 2px 2px 3px #212121;
+}
+header nav #paloAlto div, 
+header nav #mtView div {border:1px solid #706458;height:108px;text-align:center;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+}
+header nav #orderDel div {border:1px solid #706458;height:93px;text-align:center;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+}
+header nav #paloAlto.on, 
+header nav #mtView.on, 
+header nav #orderDel.on {background-color:#524741;}
+header nav .city {font-size:2.2em;color:#fff;}
+header nav .street {font-size:1.3em;color:#fff;}
+header nav .phone {font-size:2em;color:#abda4d;}
+header nav a.red:link, header nav a.red:visited {font-size:1.2em;color:#b33029;font-weight:600;border-bottom:2px solid #b33029;
+-webkit-box-shadow: 0px 1px 0px #333;text-shadow:0px 1px 3px #333;}
+
+header nav .linkWrapper {float:left;width:725px;height:60px;background-color:#473e39;padding:4px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+}
+
+header nav #paloAlto div.on, 
+header nav #mtView div.on, 
+header nav #orderDel div.on {
+}
+header nav #paloAlto div.on a, 
+header nav #mtView div.on a, 
+header nav #orderDel div.on a {color:#ddd;border:none;background-color:#b33029;padding:0 10px;cursor:default;
+}
+
+header nav aside#connect {float:left;width:280px;margin:42px 0 0 0;position:relative;}
+header nav aside#connect span {display:block;color:#fff;opacity:.6;text-shadow:1px 1px 1px #212121;font-size:1.2em;}
+header nav aside#connect a {display:block;float:left;width:61px;height:61px;margin-right:10px;}
+header nav aside#connect a:last-child {margin-right:0;}
+
+header nav aside#connect .popover {position:absolute;width:280px;height:4.4em;top:-4em;left:0;background-color:#524741;border:1px solid #706458;padding:4px;cursor:default;text-shadow:0px 1px 3px #333;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+header nav aside#connect .popover h3 {font-size:1.4em;line-height:1.4em;color:#abda4d;margin:0;padding:0;}
+header nav aside#connect .popover a:link,
+header nav aside#connect .popover a:visited {display:block;height:1.4em;line-height:1.4em;color:#fff;width:280px;text-decoration:underline;}
+header nav aside#connect .popover a:hover {color:#ccc;}
+
+header nav ul {width:713px;height:58px;border:1px solid #706458;-webkit-border-radius:6px;-moz-border-radius:6px;padding-left:10px;}
+header nav ul li {float:left;line-height:38px;width:130px;font-size:1.6em;margin:10px 0px 10px 10px;text-align:center;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	text-shadow: 2px 2px 3px #212121;
+}
+header nav ul li:first-child {margin-left:0;}
+header nav ul li a:link, nav ul li a:visited {color:#fff;font-weight:400;}
+header nav ul li:hover {
+	-webkit-transform: scale(1.2);
+}
+header nav ul li:hover a {color:#abda4c;}
+header nav ul li.on {background-color:#b33029;}
+header nav ul li.on:hover {-webkit-transform: scale(1);}
+header nav ul li.on a:link, 
+header nav ul li.on  a:visited {color:#fff;cursor:default;}
+
+/*header nav .orderoptions {position:absolute;top:-14px;left:20px;background-color:#524741;border:1px solid #706458;padding:4px;line-height:14px;font-size:.6em;color:#ccc;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}*/
+
+header nav .orderoptions {position:absolute;top:-14px;left:26px;background:url(/img/redArrows.png) no-repeat center center;width:80px;height:22px;}
+
+section#dishes {background-color:#fff;width:974px;margin:0 auto;padding:10px;padding-bottom:0;border:3px solid #212121;border-top:none;
+	position:relative;z-index:199;
+/*	-webkit-box-reflect: below 0px
+	-webkit-gradient(linear, 0% 0%, 0% 100%, from(transparent), to(rgba(255, 255, 255, 0.238281))) 0 0 0 0 stretch stretch;*/
+}
+section#dishes #dish {float:left;width:650px;height:320px;margin-right:0px;background-color:#fff;position:relative;}
+section#dishes #dish img {position:absolute;top:0;left:0;z-index:0;}
+section#dishes #dish img.current {z-index:1;}
+section#dishes #reviewBlock {float:left;width:300px;height:292px;padding:14px;padding-right:10px;background:#abda4c url(/img/bamboo-review.png) no-repeat bottom right;color:#fff;text-shadow:0px 1px 3px #333;font-size:3em;font-style:italic;}
+section#dishes #reviewBlock .reviewBox {display:none;} 
+section#dishes #reviewBlock .reviewBox.current {display:block;}
+section#dishes #reviewBlock .reviewBox .reviewer {font-size:.6em;margin-top:10px;}
+section#dishes #featured {}
+section#dishes #featured .item { width:298px;height:280px;float:left;color:#fff;margin-left:10px;padding:10px;font-size:1.4em;font-weight:300; background-color:#2e251c;position:relative;}
+section#dishes #featured .item h3 {color:#abda4d;font-size:1.4em;font-family: "Apple Chancery", "Bradley Hand ITC", "URW Chancery L", cursive;text-align:left;}
+section#dishes #featured .item .image {width:298px;height:150px;}
+section#dishes #featured .item.alt {background-color:#524741;}
+section#dishes #featured .item.alt .text h3 {color:#d44b33;text-shadow: 2px 2px 3px #212121;font-weight:600;}
+section#dishes #featured .item.alt .image {position:absolute;bottom:10px;}
+section#dishes #featured .item:first-child {margin-left:0;}
+
+section#content {display:none;background-color:#fff;overflow:hidden;height:0;width:974px;margin:0 auto;padding:10px;padding-bottom:0;border:3px solid #212121;border-top:none;position:relative;z-index:200;}
+section#content article {padding-bottom:10px;font-size:1.4em;position:relative;z-index:200;}
+section#content article h2 {color:#b33029;clear:both;display:block;line-height:50px;font-size:2em;font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive;}
+
+section#content article ol {margin:20px;list-style-type: decimal}
+
+article#reviews {}
+article#reviews .reviewer {font-style: italic;margin-bottom:40px;font-size:.8em;}
+article#reviews .review {font-style: italic;color:#444;margin-top:10px;}
+
+article#contact {position:relative;}
+article#contact .success {position:absolute;width:380px;height:380px;background-color:#000;color:#fff;font-size:1.2em;top:50%;left:50%;margin-left:-200px;margin-top:-200px;padding:10px;overflow:hidden;}
+form#contactForm fieldset {background-color:#fff;margin-bottom:10px;display:block;padding:10px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+}
+form#contactForm ul li {display:block;height:40px;}
+form#contactForm label {float: left;width:110px;margin-left:10px;font-size:.9em;text-align:right;padding: 4px;padding-right:10px;}
+form#contactForm input[type=text],
+form#contactForm input[type=email],
+form#contactForm textarea {border:1px solid black;outline: none;padding:4px;width:200px;font-size:1em;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+}
+form#contactForm textarea {width:500px;}
+form#contactForm button {padding:10px;font-size:1em;}
+
+footer {width:1000px;height:100px;margin:0 auto;color:#fff;font-size:1em;}
+article .lunchSpecial {float:right;font-size:.8em;padding-top:10px;font-family:Helvetica;}
+article .map {position:relative;}
+article .map .address {position:absolute;top:75px;left:244px;}
+article .info {float:left;}
+article .price {text-align:right;}
+article .spicy {color:#b33029;background:url(/img/chili.jpg) no-repeat center right;padding-right:30px;}
+article .glutenfree {background:url(/img/no-g.png) no-repeat center right;padding-right:30px;}
+article .hearthealthy {background:url(/img/hearthealthy.png) no-repeat center right;padding-right:30px;}
+article span.itemHeader {font-size:1.4em;font-family: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive;}
+article table td.beta {height:40px;vertical-align:top;}
+
+
+/* IMAGE ROTATOR CSS - see gFresh.startRotator
+#rotator img {position:absolute;z-index:0;top:10px;left:10px;-webkit-border-radius:3px;}
+#rotator img.current {z-index:1;}
+aside#rotatorCtrl {position:absolute;top:20px;left:20px;z-index:3;display:none;}
+aside#rotatorCtrl a:link, aside#rotatorCtrl a:visited {display:block;padding:8px 10px;margin-bottom:10px;background-color:#003399;color:#fff;-webkit-border-radius:3px;}
+aside#rotatorCtrl a.current {background-color:lightblue;color:#003399;-webkit-transform: scale(1.2);}
+*/

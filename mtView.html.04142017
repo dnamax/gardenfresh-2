@@ -1,0 +1,1341 @@
+<div id="mtViewInfoContent">
+	<div style="float:left; width:400px;">
+		<h2>
+					Mt. View Menu and Info
+				</h2>
+		<aside id="hours">
+			<div class="clear10"></div>
+			<small>Tue-Sun</small> 11:30 a.m. - 2:30 p.m.
+			<div class="clear10"></div>
+
+			<small>Tue-Sun</small> 4:30 p.m. - 9:30 p.m.
+			<div class="clear10"></div>
+
+			<small>Monday: </small> CLOSED
+			<div class="clear10"></div>
+
+			<small>We accept</small><br />
+			<img src="/img/creditcards.png" /><br />
+			<small>Credit Card Minimum $15.00</small>
+			<div class="clear10"></div>
+			<small>Prices subject to change without notice.</small>
+			<div class="clear10"></div>
+		</aside>
+	</div>
+	<div style="float:right;" class="map">
+		<div class="address">
+			1245 West El Camino Real<br />Mountain View, CA 94040<br />
+			<a href="http://maps.google.com/maps?f=q&source=s_q&q=1245+West+El+Camino+Real,+Mountain+View,+CA&ie=UTF8&hq=&hnear=1245+W+El+Camino+Real,+Mountain+View,+Santa+Clara,+California+94040&z=16&iwloc=r0" style="color:#0000FF;text-align:left" target="_blank">View larger map</a>
+		</div>
+		<img src="/img/mtView-map.png" />
+	</div>
+	<div class="clear10"></div>
+
+
+	<table border="0" width="970">
+		<tr>
+			<td colspan="4">
+				<span class="itemHeader">ENTREES</span>
+				<div class="lunchSpecial">*Lunch Specials available Monday-Friday until 3:00PM, except holidays. Includes brown rice.</div>
+			</td>
+		</tr>
+
+		<tr>
+			<td width="4%">
+
+			</td>
+			<td>
+
+			</td>
+			<td style="text-align:right;">
+				<span style='font-size:9.0pt; font-family:Helvetica;'>Lunch Special*</span>
+			</td>
+			<td style="text-align:right;">
+				<span style='font-size:9.0pt; font-family:Helvetica;'>À la carte</span>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				1.
+			</td>
+			<td>
+				<span class="spicy">MONGOLIAN VEGGIE CHICKEN</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Soy chicken strips sautéed with carrots, bean sprouts and green onions in Chef's special spicy sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2.
+			</td>
+			<td>
+				SWEET AND SOUR VEGGIE PORK
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Crispy-fried soy protein, sautéed with broccoli, pineapple and green peppers in sweet and sour sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3.
+			</td>
+			<td>
+				BROWN RICE WITH MINCED VEGETABLES
+			</td>
+			<td class="price">
+
+			</td>
+			<td class="price">
+				8.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Plain or in Curry sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4.
+			</td>
+			<td>
+				VEGGIE HAM (wheat-free)
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Soy ham sautéed with broccoli, jicama, mushrooms and snow peas in special garlic white sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				5.
+			</td>
+			<td>
+				<span class="spicy">GENERAL'S VEGGIE CHICKEN</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Crispy-fried soy chicken, sautéed with bell peppers and carrots in spicy sweet and sour sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				6.
+			</td>
+			<td>
+				<span class="spicy">HUNAN VEGGIE CHICKEN</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Shredded soy chicken sautéed with celery, carrots and bamboo shoots in special Hunan sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				7.
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Minced shiitake mushrooms, carrots and water chestnuts wrapped in steamed cabbage with light white sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				8.
+			</td>
+			<td>
+				VEGGIE CHICKEN CURRY (wheat-free)
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Soy chicken sautéed with potatoes and carrots in curry sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				9.
+			</td>
+			<td>
+				SAUTÉED VEGETABLES
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				sautéed or steamed fresh, assorted vegetables
+			</td>
+			<td>
+
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				10.
+			</td>
+			<td>
+				STIR-FRIED VEGGIE CHICKEN CHOW MEIN
+			</td>
+			<td class="price">
+
+			</td>
+			<td class="price">
+				8.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				With cabbage, carrots, bean sprouts and onions
+			</td>
+			<td>
+
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				11.
+			</td>
+			<td>
+				VEGGIE BEEF WITH BROCCOLI
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Sliced soy beef sautéed with broccoli in special sauce
+			</td>
+			<td>
+
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				12.
+			</td>
+			<td>
+				TOFU DELIGHT
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Tofu sautéed with broccoli, carrots, snow peas, zucchini, mushrooms and bok choy in black bean sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				13.
+			</td>
+			<td>
+				BLACK PEPPER VEGGIE CHICKEN
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Deep-fried soy chicken, with sautéed onions, carrots and mushrooms in light black pepper sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				14.
+			</td>
+			<td>
+				CRISPY FRIED TOFU WITH MINCED VEGETABLES
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Crispy fried tofu filled with minced vegetables in black bean sauce over lettuce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				15.
+			</td>
+			<td>
+				HAPPY FAMILY
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Soy veggie ham and veggie beef with fresh vegetables in brown garlic sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				16.
+			</td>
+			<td>
+				<span class="spicy">KUN PAO EGGPLANT</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Japanese eggplant with bell peppers, red chili peppers and basil in spicy Szechuan sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				17.
+			</td>
+			<td>
+				TOFU SKIN WITH ASPARAGUS
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Creamy tofu skin with fresh asparagus sautéed in brown sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				18.
+			</td>
+			<td>
+				ORANGE VEGGIE BEEF
+			</td>
+			<td class="price">
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Fried homemade shiitake mushroom with chef's special orange-flavored sauce, served with steamed broccoli
+			</td>
+		</tr>
+
+
+
+		<tr>
+			<td>
+				19.
+			</td>
+			<td>
+				<span class="spicy">HOT AND SPICY BEAN CURD</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Soft tofu sautéed with peas, carrots and veggie ham in spicy brown sauce
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+				20.
+			</td>
+			<td>
+				<span class="spicy">SOFT ROLL</span>
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Tofu skin roll sautéed with fresh mixed vegetables in special brown sauce
+			</td>
+		</tr>
+
+
+
+		<tr>
+			<td>
+				30.
+			</td>
+			<td>
+				DRY BRAISED STRING BEANS
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Green string beans with soy bean gluten sautéed in spicy Hunan sauce
+			</td>
+			<td>
+
+			</td>
+			<td>
+
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+				31.
+			</td>
+			<td>
+				LEMON VEGGIE CHICKEN
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Crispy fried soy chicken in sweet lemon sauce on lettuce leaves
+			</td>
+			<td>
+
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				33.
+			</td>
+			<td>
+				<span class="spicy">KUN PAO VEGGIE CHICKEN</span>
+			</td>
+			<td class="price">
+				8.25
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Wheat-gluten chicken sautéed with green peppers, onions, carrots and zucchini in spicy brown sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				35.
+			</td>
+			<td>
+				CURRY TOFU (wheat-free)
+			</td>
+			<td class="price">
+				9.95
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Tofu sautéed with potatoes and carrots in curry sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				43.
+			</td>
+			<td>
+				<span class="spicy">KUN PAO GOBO(JAPANESE BURDOCK)</span>
+			</td>
+			<td class="price">
+				8.95
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="3" class="beta">
+				Japanese burdock root sautéed with carrots, water chesnuts, green bell peppers and onions in spicy sauce
+			</td>
+		</tr>
+
+	</table>
+
+	<table width="970" border="0" style="margin-top:20px;">
+		<tr>
+			<td colspan="3">
+				<span class="itemHeader">CHEF'S SPECIALS (available all day)</span>
+			</td>
+		</tr>
+		<tr>
+			<td width="4%">
+
+			</td>
+			<td width="87%">
+
+			</td>
+			<td width="9%" style="text-align:right;">
+				<span style='font-size:10.0pt;font-family: "Bradley Hand ITC TT-Bold";'>À la carte</span>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				21.
+			</td>
+			<td>
+				VEGGIE RIBS
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Pressed shiitake mushrooms sautéed with onions and green peppers in black bean sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				22.
+			</td>
+			<td>
+				MINCED VEGGIES WRAPPED IN LETTUCE CUPS
+			</td>
+			<td class="price">
+				13.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Sautéed minced snow peas, mushrooms, veggie ham and mushrooms on a bed of crispy rice noodles, wrapped in lettuce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				23.
+			</td>
+			<td>
+				HUNDRED LAYER TOFU (wheat-free)
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Firm bean curd drizzled with chef's special light brown sauce on a bed of spinach leaves
+			</td>
+		</tr>
+		<tr>
+			<td>
+				24.
+			</td>
+			<td>
+				BASIL WITH VEGETARIAN KIDNEY (wheat-free)
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Crunch soy bean kidneys with minced vegetables and fresh basil
+			</td>
+		</tr>
+		<tr>
+			<td>
+				25.
+			</td>
+			<td>
+				VEGGIE FISH
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Tofu skin wrapped in seaweed, sautéed with fresh vegetables, in Chinese sweet and sour sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				26.
+			</td>
+			<td>
+				VEGGIE HAM BUNDLES (wheat-free)
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Shredded black mushrooms, carrots and celery wrapped in sliced veggie ham, <br>garnished with baby bok choy in a light sauce<br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				27.
+			</td>
+			<td>
+				VEGGIE DUCK
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Duck, made from pressed shiitake mushrooms and tofu skin, drizzled with <br>chef's special light brown sauce on a bed of mixed vegetables<br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				28.
+			</td>
+			<td>
+				ROAST VEGGIE CHICKEN (HALF) (wheat-free)
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Chicken made from soy bean, drizzled in chef's special light brown sauce, on a bed of spinach leaves
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				29.
+			</td>
+			<td>
+				SINGAPORE-STYLE RICE NOODLES (wheat-free)`
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Curry stir-fried rice noodles with soy bean chicken, carrots, bean sprouts, cabbage, onion and celery
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				34.
+			</td>
+			<td>
+				GRILLED SALMON FILLET
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td colspan="2" class="beta">
+				Tofu skin wrapped in seaweed, sautéed with bamboo shoots, jicama and carrots, in Chef's special sauce
+			</td>
+		</tr>
+		<tr>
+			<td>
+				36.
+			</td>
+			<td>
+				VEGGIE CHICKEN CHOW FUN
+			</td>
+			<td class="price">
+				8.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Stir-fried with cabbage, carrots, bean sprouts and onions
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				37.
+			</td>
+			<td>
+				SPINACH WITH GARLIC SAUCE
+			</td>
+			<td class="price">
+				9.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				38.
+			</td>
+			<td>
+				BLACK MUSHROOMS WITH BOK CHOY
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				39.
+			</td>
+			<td>
+				ORANGE VEGGIE CHICKEN
+			</td>
+			<td class="price">
+				11.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Deep-fried homemade shiitake-mushroom-chicken in orange sauce
+			</td>
+			<td>
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+				40.
+			</td>
+			<td>
+				MOO SHU VEGETABLES
+			</td>
+			<td class="price">
+				13.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Served with four steamed thin rice pancakes
+			</td>
+			<td>
+
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				41.
+			</td>
+			<td>
+				GOLDEN NUGGETS ON IRON PLATE
+			</td>
+			<td class="price">
+				13.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Soy nuggets with mixed vegetables in special sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+				42.
+			</td>
+			<td>
+				BASIL TEMPURA
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Soy gobo tempura with onion, carrot and basil sautéed in chef's special sauce
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				44.
+			</td>
+			<td>
+				HONG KONG STYLE CRISPY NOODLES
+			</td>
+			<td class="price">
+				10.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Served with soy chicken, soy ham and vegetables
+			</td>
+			<td>
+
+			</td>
+		</tr>
+		<tr>
+			<td>
+				45.
+			</td>
+			<td>
+				TOFU ON IRON PLATE
+			</td>
+			<td class="price">
+				12.95
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+			</td>
+			<td class="beta">
+				Sizzling tofu with vegetables
+			</td>
+			<td>
+
+			</td>
+		</tr>
+
+	</table>
+
+	<hr />
+
+	<div style="float:left;width:475px;margin-right:20px;">
+		<table border="0" width="475">
+			<tr>
+				<td width="475" colspan="2">
+					<span class="itemHeader">APPETIZERS</span>
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Spring Rolls (3)
+				</td>
+				<td width="35">
+					4.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Basil Moo Shu Rolls (2), served chilled (wheat-free)
+				</td>
+				<td width="35">
+					3.50
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Deep-fried Veggie Drumsticks (4)
+				</td>
+				<td width="35">
+					6.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Scallion Pancakes (fried) with Carrot Sticks
+				</td>
+				<td width="35">
+					6.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Steamed Seasoned Vegetable Dumplings
+				</td>
+				<td width="35">
+					6.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Vegetable Potstickers (6)
+				</td>
+				<td width="35">
+					6.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Cold Noodles with Sesame Dressing
+				</td>
+				<td width="35">
+					7.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Wonton with Sesame Chili Sauce
+				</td>
+				<td width="35">
+					6.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Bun (steamed)
+				</td>
+				<td width="35">
+					4.50
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Brown Rice
+				</td>
+				<td width="35">
+					1.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Extra house sauce
+				</td>
+				<td width="35">
+					1.75
+				</td>
+			</tr>
+			<tr>
+				<td width="970" colspan="2">
+					<div class="clear10"></div>
+					<span class="itemHeader">SOUPS and NOODLES</span>
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Hot and Sour Soup
+				</td>
+				<td width="90">
+					4.95 (small) / 8.95 (large)
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Spinach Wonton Soup
+				</td>
+				<td width="90">
+					4.95 / 8.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Miso Soup (wheat-free)
+				</td>
+				<td width="90">
+					4.95 / 8.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Corn and Tofu Chowder (wheat-free)
+				</td>
+				<td width="90">
+					4.95 / 8.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Noodle Soup
+				</td>
+				<td width="35">
+					9.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Curry Noodle Soup
+				</td>
+				<td width="35">
+					9.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Veggie Hot and Sour Noodle Soup
+				</td>
+				<td width="35">
+					9.95
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div style="float:left;width:475px;">
+		<table border="0" width="475">
+			<tr>
+				<td width="970" colspan="2">
+					<span class="itemHeader">BEVERAGES</span>
+				</td>
+			</tr>
+
+			<tr>
+				<td width="440">
+					Fresh Carrot Juice
+				</td>
+				<td width="35">
+					4.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Fresh Orange Juice
+				</td>
+				<td width="35">
+					4.50
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Cranberry, Pineapple or Apple Juice
+				</td>
+				<td width="35">
+					3.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Lychee, Cranberry, Pineapple or Apple Iced Tea
+				</td>
+				<td width="35">
+					3.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Organic Soy Milk
+				</td>
+				<td width="35">
+					2.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Calistoga Mineral Water
+				</td>
+				<td width="35">
+					1.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Hot Green, Herbal, Jasmine or Roasted Barley Tea
+				</td>
+				<td width="35">
+					1.75
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Coke, Diet Coke, Sprite or Ginger Ale
+				</td>
+				<td width="35">
+					1.95
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Non-Alcoholic Beer
+				</td>
+				<td width="35">
+					4.50
+				</td>
+			</tr>
+			<tr>
+				<td width="440">
+					Snapple: Kiwi Strawberry or Mango Madness
+				</td>
+				<td width="35">
+					2.95
+				</td>
+			</tr>
+		</table>
+		<div class="clear10"></div>
+	</div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+	<div class="clear10"></div>
+</div>

@@ -1,0 +1,4 @@
+header nav aside#connect img.no-right-margin {margin-right:0;}
+section#dishes #reviews {background-image:none;}
+section#dishes #featured .no-left-margin {margin-left:0;}
+aside#toTop {width:100px;position:absolute;}
